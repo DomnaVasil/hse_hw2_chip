@@ -29,5 +29,11 @@
 #### ![image](https://user-images.githubusercontent.com/114879123/220977622-94be85e3-50b0-46ad-b049-eda6e42e983a.png)
 #### ![image](https://user-images.githubusercontent.com/114879123/220977683-b52c426d-868d-4035-8cb7-df372485ad15.png)
 #### ![image](https://user-images.githubusercontent.com/114879123/220977748-a0b09ffe-7fd8-46ec-9c57-1dd0fd77336c.png)
+#### Так как качество ридов хорошее, то подрезание чтений не нужно
+## Статистика по 3 образцам
+| Файл | Кол-во ридов в файле  | Кол-во ридов, выравнившихся уникально | Кол-во ридов, выравшнившихся не уникально | Кол-во ридов, не выравнившихся |
+| ENCFF000AKW | ------------- |
+| ENCFF000AKV | Content Cell  |
+| ENCFF000AHJ | Content Cell  |
 
 
