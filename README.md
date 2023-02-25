@@ -1,6 +1,7 @@
 # hse_hw2_chip
 ## Васильева Дарья
-#### В данной работе была взята клеточная линия A549 и гистоновая метка H3K27me3. Реплика 1 - ENCFF000AKW, реплика 2 - ENCFF000AKV, контроль - ENCFF000AHJ
+#### В данной работе была взята клеточная линия A549 и гистоновая метка H3K27me3. 
+#### Реплика 1 - ENCFF000AKW, реплика 2 - ENCFF000AKV, контроль - ENCFF000AHJ
 #### Ссылка на гугл коллаб: https://colab.research.google.com/drive/1lqxAVauwgC0wRJMww57IaZ9nn_QVBd1x?usp=sharing
 ## FastQC для файла ENCFF000AKW
 #### ![image](https://user-images.githubusercontent.com/114879123/220972710-48ef4aed-29a9-4c75-81b7-50ac410093f7.png)
